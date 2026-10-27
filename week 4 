@@ -1,0 +1,13 @@
+//Author: Deborah Mbatia
+//Reg:Bcs-05-0555/2026
+// loop program
+	#include <stdio.h>
+
+int main() {
+    // Printing numbers from 100 down to 50 in descending order
+    for (int i = 100; i >= 50; i--) {
+        printf("%d\n", i); 
+    }
+    return 0;
+}
+
